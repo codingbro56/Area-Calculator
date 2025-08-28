@@ -16,5 +16,5 @@ You can select an option (1–5) to calculate an area or exit.
 python area_calculator.py
 
 ```markdown
-<img width="1356" height="863" alt="image" src="https://github.com/user-attachments/assets/14cef3fd-1670-4eac-973e-c3aa41aa7620" />
-
+<img width="1513" height="881" alt="Screenshot 2025-08-28 090553" src="https://github.com/user-attachments/assets/5478ba8d-e09d-4902-8919-c584a3c537ce" />
+(Screenshot 2025-08-28 090553.png)
