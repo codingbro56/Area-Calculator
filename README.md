@@ -1,6 +1,6 @@
 # Area-Calculator
 
-A menu-driven Python program that calculates the area of basic shapes:  
+A menu-driven Python program that calculates the area of this basic shapes:  
 
 - Circle  
 - Triangle  
